@@ -1,0 +1,3 @@
+<h3>Literature Content Generator</h3>
+
+The Literature Content Generator is your go-to tool for crafting high-quality, imaginative literary works based on your input. Whether you're looking to develop rich narratives, poetic verses, character-driven plots, or even thoughtful essays, this generator adapts to your vision. Simply provide a prompt or idea, and the Literature Content Generator will transform it into eloquent prose, literary masterpieces, or deeply engaging content. Ideal for writers, students, or anyone with a love for storytelling, this tool brings your literary imagination to life!
